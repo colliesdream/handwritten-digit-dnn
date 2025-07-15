@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# 虛擬環境
+.venv/
+env/
+venv/
+
+# 模型或資料
+*.h5
+*.pt
+*.ckpt
+*.npz
+
+# Jupyter Notebook 中的輸出快取
+.ipynb_checkpoints/
